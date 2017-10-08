@@ -4,11 +4,7 @@ permalink: publications/
 profile: true
 ---
 
-I'm currently a PhD candidate at the
-[Institute of Astronomy](http://www.ast.cam.ac.uk/) at the University of
-Cambridge. I did my undegraduate masters in Theoretical Physics at University
-College London. I've spent a couple of my summers working on the
-[Galaxy Zoo](http://www.galaxyzoo.org) project at the University of Oxford.
+1. [B. Deconinck](http://depts.washington.edu/bdecon/bernard/), P. McGill, and [B.L. Segal](https://bsegal.org/), The stability spectrum for elliptic solutions to the sine-Gordon equation, submitted for publication, 2017.
 
 
 {% include footer.html %}
