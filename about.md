@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-## About
+### About
 
 I'm currently a PhD candidate at the
 [Institute of Astronomy](http://www.ast.cam.ac.uk/) at the University of
