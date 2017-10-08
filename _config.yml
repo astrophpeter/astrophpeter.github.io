@@ -1,5 +1,5 @@
 name: Your New Jekyll Site
-description: Blogging about stuffs
+description: On Astrophysics and being a PhD Student
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
@@ -16,7 +16,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+author:         'Peter McGill'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
