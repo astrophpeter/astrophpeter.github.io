@@ -28,6 +28,7 @@ to easy)
 
 
 ![](http://www.petermcgill.com/assets/images/IOA.jpg)
+*Observatory Building at the Institute of Astronomy*
 
 
 I've also been to various introduction talks at the IOA, and chatted to some
