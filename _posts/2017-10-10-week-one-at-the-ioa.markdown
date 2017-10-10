@@ -18,7 +18,7 @@ outside of academia. I also want to use it to explain what I get up to day to da
 and what science I get done. Hopefully this blog should be to accessible
 to anybody interested enough.
 
-![](http://www.petermcgill.com/assets/images/darwin.jpg)
+![](http://www.petermcgill.com/assets/images/darwin.JPG)
 *Darwin College from one of the islands.*
 
 OK, down to business. So it has been the welcome / induction week at Cambridge,
