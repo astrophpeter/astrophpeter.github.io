@@ -10,7 +10,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'petermcgill.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-83279334-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
