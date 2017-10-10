@@ -26,6 +26,10 @@ at the Darbar (Darwin College's bar, which is open every night from 9. I'm still
 not sure this a good thing as I live just above it, and my access to it is a little
 to easy)
 
+
+![](www.petermcgill.com/assets/images/IOA.jpg)
+
+
 I've also been to various introduction talks at the IOA, and chatted to some
 potential supervisors. Unlike most other departments in the UK, at the IOA students
 aren't matched with a supervisor and project at the application stage. Instead we
