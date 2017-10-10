@@ -27,7 +27,7 @@ not sure this a good thing as I live just above it, and my access to it is a lit
 to easy)
 
 
-![](www.petermcgill.com/assets/images/IOA.jpg)
+![](https://www.petermcgill.com/assets/images/IOA.jpg)
 
 
 I've also been to various introduction talks at the IOA, and chatted to some
