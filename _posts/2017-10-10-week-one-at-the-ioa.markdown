@@ -1,6 +1,6 @@
 ---
 title:  "Week one at the IOA"
-date:   2017-11-10 10:18:00
+date:   2017-10-10 10:18:00
 description: My first week as a PhD Student
 ---
 
@@ -18,7 +18,7 @@ outside of academia. I also want to use it to explain what I get up to day to da
 and what science I get done. Hopefully this blog should be to accessible
 to anybody interested enough.
 
-OK, down to busisness. So it has been the welcome / induction week at Cambridge,
+OK, down to business. So it has been the welcome / induction week at Cambridge,
 both at my college (Darwin) and the IOA. This means I've attended loads of events
 from night punting on the river cam to formal welcome dinners and drinks - all of
 it has been pretty fun. I've also had the chance to meet lots of interesting people
@@ -30,3 +30,5 @@ I've also been to various introduction talks at the IOA, and chatted to some
 potential supervisors. Unlike most other departments in the UK, at the IOA students
 aren't matched with a supervisor and project at the application stage. Instead we
 get to 'shop around' and try out various projects and supervisors when we get here.
+We don't even have to settle on anything until January. Currently I'm trying to
+decide which projects to try out, anyway, more on that next time.
