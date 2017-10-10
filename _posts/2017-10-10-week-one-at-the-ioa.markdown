@@ -18,6 +18,9 @@ outside of academia. I also want to use it to explain what I get up to day to da
 and what science I get done. Hopefully this blog should be to accessible
 to anybody interested enough.
 
+![](http://www.petermcgill.com/assets/images/darwin.jpg)
+*Darwin College from one of the islands*
+
 OK, down to business. So it has been the welcome / induction week at Cambridge,
 both at my college (Darwin) and the IOA. This means I've attended loads of events
 from night punting on the river cam to formal welcome dinners and drinks - all of
@@ -28,7 +31,7 @@ to easy)
 
 
 ![](http://www.petermcgill.com/assets/images/IOA.jpg)
-*Observatory Building at the Institute of Astronomy*
+*The Observatory Building at the Institute of Astronomy*
 
 
 I've also been to various introduction talks at the IOA, and chatted to some
