@@ -27,7 +27,7 @@ from night punting on the river cam to formal welcome dinners and drinks - all o
 it has been pretty fun. I've also had the chance to meet lots of interesting people
 at the Darbar (Darwin College's bar, which is open every night from 9. I'm still
 not sure this a good thing as I live just above it, and my access to it is a little
-to0 easy)
+too easy).
 
 
 ![](http://www.petermcgill.com/assets/images/IOA.jpg)
