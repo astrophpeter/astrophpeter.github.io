@@ -23,7 +23,7 @@ to anybody interested enough.
 
 OK, down to business. So it has been the welcome / induction week at Cambridge,
 both at my college (Darwin) and the IOA. This means I've attended loads of events
-from night punting on the river cam to formal welcome dinners and drinks - all of
+from night punting on the river Cam to formal welcome dinners and drinks - all of
 it has been pretty fun. I've also had the chance to meet lots of interesting people
 at the Darbar (Darwin College's bar, which is open every night from 9. I'm still
 not sure this a good thing as I live just above it, and my access to it is a little
