@@ -6,6 +6,6 @@ description: Potential projects and a trip to Lord's Bridge
 
 
 
-![](http://www.petermcgill.com/assets/images/AMI-Large-Array.jpg)
+![](http://www.petermcgill.com/assets/images/AMI-Large-Array.JPG)
 *The AMI Large Array Telescope at the Mullard Radio Astronomy Observatory, Lord's Bridge.*
  
