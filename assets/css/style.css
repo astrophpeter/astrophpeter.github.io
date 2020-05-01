@@ -51,7 +51,7 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:17px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:17px/1 Georgia, serif; /*"Helvetica Neue", Helvetica, Arial, sans-serif;*/
 	color: #303030;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
