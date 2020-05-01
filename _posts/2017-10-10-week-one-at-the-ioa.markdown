@@ -18,7 +18,7 @@ outside of academia. I also want to use it to explain what I get up to day to da
 and what science I get done. Hopefully this blog should be accessible
 to anybody interested enough.
 
-![](http://www.astrophpeter.github.io/assets/images/darwin.JPG)
+![](http://astrophpeter.github.io/assets/images/darwin.JPG)
 *Darwin College from one of the islands.*
 
 OK, down to business. So it has been the welcome / induction week at Cambridge,
@@ -30,7 +30,7 @@ not sure this a good thing as I live just above it, and my access to it is a lit
 too easy).
 
 
-![](http://www.astrophpeter.github.io/assets/images/IOA.jpg)
+![](http://astrophpeter.github.io/assets/images/IOA.jpg)
 *The Observatory Building at the Institute of Astronomy.*
 
 
