@@ -18,8 +18,9 @@ for i in range(10):
 print(results)
 ```
 
-    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-
+```python
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
 
 Instead of doing this we can use list comprehension with a generator expression to achieve exactly the thing:
 
@@ -29,8 +30,9 @@ results = [i for i in range(10)]
 print(results)
 ```
 
-    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-
+```python
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
 
 So much more clean right? The first think to note we decreased the amount of code and retained the readability. If you think couldn't get even better, the genreator expression is also faster than the for loop. We can see this by timing each of the methods, let's also increase the number we want to count to to 10000 so we can see the speed up:
 
@@ -42,17 +44,18 @@ for i in range(10000):
     results.append(i)
 ```
 
-    1.02 ms ± 175 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-
+```python
+1.02 ms ± 175 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+```
 
 
 ```python
 %%timeit
 results = [i for i in range(10000)]
 ```
-
-    435 µs ± 56.5 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-
+```python
+435 µs ± 56.5 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+```
 
 We can see that the list comphrhension was about twice as fast. We can also use this type of syntax to build dictionaries and tuples. 
 
