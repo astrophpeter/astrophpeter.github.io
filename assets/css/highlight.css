@@ -11,6 +11,7 @@
 .highlight .o { color: #2b2b2b } /* Operator */
 .highlight .n { color: #2b2b2b } /* Operator */
 .highlight .p { color: #2b2b2b } /* Operator */
+.highlight .err { color: #2b2b2b } /* Operator */
 .highlight .ch { color: #408080; font-style: italic } /* Comment.Hashbang */
 .highlight .cm { color: #408080; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #BC7A00 } /* Comment.Preproc */
@@ -76,11 +77,4 @@
 .highlight .il { color: #666666 } /* Literal.Number.Integer.Long */
 
 
-
-
-
-
-.hljs-number {
-  color:#2b2b2b;
-}
 
