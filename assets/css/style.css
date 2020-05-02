@@ -359,8 +359,8 @@ img {
 }
 
 img[src*="#badge"] {
-	width: 15%;
-	max-width: 15%;
+	width: 20%;
+	max-width: 20%;
 	border-radius: 3px;
 }
 
