@@ -116,7 +116,7 @@ nav.main-nav {
 	background: #fff;
 	background: rgba(255,255,255,.90);
 	margin: 0 auto;
-	text-align: right;
+	text-align: left;
 	/*position: fixed;*/
 	z-index: 100;
 }
@@ -126,7 +126,7 @@ nav.main-nav a {
 	right: 6px;
 	padding: 8px 12px;
 	color: #303030;
-	font-size: 13px;
+	font-size: 17px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
 	border-radius: 3px;
