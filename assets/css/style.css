@@ -289,7 +289,7 @@ em, i { font-style: italic; }
 }
 
 #post-list h2 {
-	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 17px/1.5em Georgia, serif; /*"Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
@@ -396,8 +396,8 @@ img {
 }
 
 img[src*="#badge"] {
-	width: 25%;
-	max-width: 25%;
+	/*width: 25%;
+	max-width: 25%;*/
 	border-radius: 3px;
 }
 
@@ -433,14 +433,14 @@ Post List
 #post-list a {
 	color: #333;
 	display: block;
-	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 19px/1.7 Georgia, serif; /*"Helvetica Neue",helvetica,Arial,sans-serif;*/
 }
 
 #post-list .dates {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 17px/1.8 Georgia, serif; /*"Helvetica Neue",helvetica,Arial,sans-serif;*/
 	color: #bbb;
 }
 
