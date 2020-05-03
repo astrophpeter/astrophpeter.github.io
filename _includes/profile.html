@@ -4,15 +4,16 @@
         {% if site.aboutPage %}
             <a href="{{ "/" | relative_url  }}about">
                 <img id="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
-            </a>
+            
         {% else %}
-            <img id="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
+            
+                <a <img id="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
         {% endif %}
             <div>
                 <span class="dark">{{ site.author }}</span>
                 <span>{{ site.description }}</span>
             </div>
-            <!--<h1>{{ site.author }}</h1>
+            </a><!--<h1>{{ site.author }}</h1>
             <h2>{{ site.description }}</h2>-->
 
         </header>
