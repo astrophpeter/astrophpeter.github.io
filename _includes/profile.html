@@ -3,11 +3,11 @@
         <header id="header">
         {% if site.aboutPage %}
             <a href="{{ "/" | relative_url  }}about">
-                <img class="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
+                <img id="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
             </a>
         {% else %}
             
-              <img class="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
+              <img id="avatar" src="{{ "/" | relative_url  }}assets/images/avatar.jpg"/>
         {% endif %}
             <div>    
                 <span class="dark">{{ site.author }}</span>
