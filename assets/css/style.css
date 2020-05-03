@@ -85,13 +85,12 @@ h2 {
 
 .profile #header {
 	font-size: 20px;
-	font-weight: bold;
 	line-height: 1.4;
 	padding-top: 40px;
 	margin-bottom: 40px;
 	padding-bottom: 40px;
 	margin-top: 40px;
-	color:#444;
+	color:#b2b9be;
 	border-bottom: 1px solid #eee;
 }
 
@@ -106,8 +105,8 @@ h2 {
 }
 
 .profile #avatar {
-	height: 60px;
-  	width: 60px;
+	height: 70px;
+  	width: 70px;
   	float: left;
   	border-radius: 50%;
   	margin-top: 3px;
