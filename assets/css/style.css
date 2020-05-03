@@ -95,8 +95,10 @@ h2 {
 }
 
 .profile #header div span {
-	color: #b2b9be;
-	display: block;
+	font: normal 20px/1.5em Georgia, serif; /*"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	color: #aaa;
+	max-width: 400px;
+	margin-top: 2px;
 }
 
 .profile #header div span.dark {
@@ -396,8 +398,8 @@ img {
 }
 
 img[src*="#badge"] {
-	/*width: 25%;
-	max-width: 25%;*/
+	width: 200;
+	max-width: 200;
 	border-radius: 3px;
 }
 
