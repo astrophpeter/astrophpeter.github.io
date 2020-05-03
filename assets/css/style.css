@@ -96,8 +96,7 @@ h2 {
 }
 
 .profile #header div span {
-	color: #aaa;
-	font-weight: 500;
+	color: #b2b9be;
 	display: block;
 }
 
@@ -107,8 +106,8 @@ h2 {
 }
 
 .profile #avatar {
-	height: 45px;
-  	width: 45px;
+	height: 60px;
+  	width: 60px;
   	float: left;
   	border-radius: 50%;
   	margin-top: 3px;
