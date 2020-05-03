@@ -1,3 +1,9 @@
+---
+title:  "Writing better python for research"
+date:   2020-05-03
+description: Two ways I've improved my python
+draft: true
+---
 
 Writing readable high-quality code is key to being able to carry out efficent and effective research. Whilst in lockdown over the past six weeks I've been trying to improve my python skills, and learn about better ways to write my research code. I want to share two things I've found particular useful for improving the qualtiy of my own code, in the hope that they will help you too. 
 
