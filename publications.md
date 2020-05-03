@@ -4,7 +4,7 @@ permalink: research/
 profile: true
 ---
 
-I work on a topic called graviataional microlensing. So far during my PhD I have looked at the detection of the astrometric signatures of microlensing events with the Gaia Satellite. My supervisors are Wyn Evans and Vasily Belokurov. 
+I work on a topic called gravitational microlensing. So far during my Ph.D. I have looked at the detection of the astrometric signatures of microlensing events with the Gaia Satellite. My supervisors are Wyn Evans and Vasily Belokurov. 
 
 
 ### Publications
