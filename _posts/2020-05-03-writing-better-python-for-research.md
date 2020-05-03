@@ -32,8 +32,9 @@ results = [i for i in range(10)]
 print(results)
 ```
 
-    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-
+```python
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
 
 So much more clean right? The first thing to notice is that we decreased the amount of code needed **and** retained its readability. The second thing to notice is that this way of doing things is also faster than the for loop. We can see this by timing each of the methods, let's also increase the number we want to count to to 10000 so we can see the speed up:
 
@@ -45,8 +46,9 @@ for i in range(10000):
     results.append(i)
 ```
 
-    1.02 ms ± 175 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-
+```python
+1.02 ms ± 175 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+```
 
 
 ```python
@@ -54,8 +56,9 @@ for i in range(10000):
 results = [i for i in range(10000)]
 ```
 
-    435 µs ± 56.5 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-
+```python
+435 µs ± 56.5 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+```
 
 We can see that the list comphrhension was about twice as fast as the for loop! List comprehsiosn can alse be combined with condiational expressions. Lets just count the even numbers from 0 to 9 for example:
 
@@ -65,8 +68,9 @@ results = [i for i in range(10) if i % 2 == 0]
 print(results)
 ```
 
-    [0, 2, 4, 6, 8]
-
+```python
+[0, 2, 4, 6, 8]
+```
 
 We can also use list comphrehension to build dictionaries in a similar way by replacing \[ \] with \{ \}.
 
@@ -102,9 +106,10 @@ print(params[0], params[1])
 print(params.intercept, params.slope)
 ```
 
-    1.0 2.0
-    1.0 2.0
-
+```python
+1.0 2.0
+1.0 2.0
+```
 
 Also if we print out params we get a descriptive representation compared to priniting an array or list.
 
@@ -113,8 +118,9 @@ Also if we print out params we get a descriptive representation compared to prin
 print(params)
 ```
 
-    Parameters(intercept=1.0, slope=2.0)
-
+```python
+Parameters(intercept=1.0, slope=2.0)
+```
 
 If we use the Parameters namedtuple we can then rewrite our predict_y function as:
 
@@ -128,4 +134,4 @@ Which is far more readable than the previous version. In addition to this if we 
 
 The code in this post can be run in your browser by clicking one of the badges below.
 
-[![Binder](https://mybinder.org/badge_logo.svg#badge)](https://mybinder.org/v2/gh/astrophpeter/astrophpeter.github.io/master?filepath=2020-01-1-jupyter-notebook-test.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#badge)](https://colab.research.google.com/github/astrophpeter/astrophpeter.github.io/blob/master/2020-01-1-jupyter-notebook-test.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg#badge)](https://mybinder.org/v2/gh/astrophpeter/astrophpeter.github.io/master?filepath=notebooks/2020-05-03-writing-better-python-for-research.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg#badge)](https://colab.research.google.com/github/astrophpeter/astrophpeter.github.io/blob/master/notebooks/2020-05-03-writing-better-python-for-research.ipynb)
