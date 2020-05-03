@@ -2,6 +2,7 @@
 title:  "Idiomatric python for astronomy"
 date:   2020-05-03
 description: Testing a jupyter notebook
+draft: true
 ---
 
 Whilst in lockdown over the past 6 weeks I've been trying to improve my python coding skills, and learn about more pythonic ways to write my research code. I wanted to share 3 things I've found useful for myself and will hopefully be useful for you too.
