@@ -1,4 +1,4 @@
----
+5---
 title: Research
 permalink: research/
 profile: true
@@ -8,6 +8,8 @@ I work on a topic called gravitational microlensing. So far during my Ph.D. I ha
 
 
 ### Publications
+
+P. McGill,  A. Everall, D. Boubert, L.C. Smith; Predictions of Gaia’s prize microlensing events are flawed, 498, 2020, L6-L1, [https://doi.org/10.1093/mnrasl/slaa118](https://doi.org/10.1093/mnrasl/slaa118)
 
 McGill P, et. al. Ongoing astrometric microlensing events from VVV and Gaia, 2019, MNRAS, 487, L7-L12.
 [https://doi.org/10.1093/mnrasl/slz073](https://doi.org/10.1093/mnrasl/slz073)
