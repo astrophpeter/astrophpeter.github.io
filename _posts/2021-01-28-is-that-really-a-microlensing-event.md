@@ -46,7 +46,7 @@ We recommend only considering events if the background source has 5D astrometry 
 
 This recommendation eliminates 61% of the predicted events forecast to happen over the Gaia mission with bright sources, including some of the best candidates where we would expect to get precise mass measurements of the lens. Requiring that the background source has 5D astrometry also remedies another puzzling aspect of the predicted events. Here is a plot of the distribution of the time of the closest approach for the events.
 
-![](http://astrophpeter.github.io/assets/images/flawed_time_distribution.jpeg)
+![](http://astrophpeter.github.io/assets/images/flawed_time_of_closest_approach_distribution.jpeg)
 *Distribution of time of closest approach*
 
 We’d expect the rate of events to be constant with a dip around the DR2 reference epoch (2015.5) where the lens and source were too close for Gaia to resolve them, so the event could not be predicted. But we can see from the plot the rate peaks either side of 2015.5 (Grey). 
