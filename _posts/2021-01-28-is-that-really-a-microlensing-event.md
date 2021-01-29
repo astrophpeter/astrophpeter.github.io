@@ -5,6 +5,8 @@ description: Break down of my recent paper
 draft: true
 ---
 
+This posts briefly summarises my most recent paper, which can be found on the arxiv [here](https://arxiv.org/abs/2006.139580). This study was completed in collaboratin with Andrew Everall, [Douglas Boubert](https://www.douglasboubert.com), and Leigh Smith.
+
 ![](http://astrophpeter.github.io/assets/images/flawed_abstract.jpeg)
 *Paper title and abstract*
 
@@ -53,4 +55,4 @@ If we apply our cut (blue), this gets rid of these sharp peaks. Excitingly this 
 
 Finally, it goes without saying that all the Gaia data is amazing, and the vast majority of microlensing predictions made with it are fine. We found out you have to be **really** careful when you’re trying to predict microlensing events near to the Gaia reference epoch!
 
-This work made lots of use of Douglas + Andy’s  + et al Completeness of Gaia-verse project work which you can check out here -  https://gaiaverse.space/home. Also huge thanks to the Gaia Help desk, who really helped us understand all of this.
+This work made lots of use of Douglas and Andy’s Completeness of Gaia-verse project work which you can check out [here](https://gaiaverse.space/home). Also huge thanks to the Gaia Help desk, who really helped us understand all of this.
