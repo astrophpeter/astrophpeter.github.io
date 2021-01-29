@@ -2,10 +2,10 @@
 title:  "Is that really a predicted microlensing event?"
 date:   2021-01-28 10:18:00
 description: Break down of my recent paper
-draft: true
+draft: false
 ---
 
-This posts briefly summarises my most recent paper, which can be found on the arxiv [here](https://arxiv.org/abs/2006.13958). This study was completed in collaborating with Andrew Everall, [Douglas Boubert](https://www.douglasboubert.com), and Leigh Smith.
+This posts briefly summarises my most recent paper, which can be found on the arxiv [here](https://arxiv.org/abs/2006.13958). This study was completed in collaboration with Andrew Everall, [Douglas Boubert](https://www.douglasboubert.com), and Leigh Smith.
 
 ![](http://astrophpeter.github.io/assets/images/flawed_abstract.jpeg)
 *Paper title and abstract*
