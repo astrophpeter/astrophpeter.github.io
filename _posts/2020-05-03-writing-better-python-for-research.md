@@ -5,7 +5,8 @@ description: Two ways I've improved my python
 draft: false
 ---
 
-![](https://hitcounter.pythonanywhere.com/count/tag.svg)
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="hits" style="width:15%">
 
 Writing readable high-quality code is key to being able to carry out efficient and effective research. Whilst in lockdown over the past six weeks I've been trying to improve my python skills and learn about better ways to write my research code. I want to share two things I've found particularly useful for improving the quality of my own code, in the hope that they will help you too.
 
