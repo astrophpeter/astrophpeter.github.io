@@ -4,6 +4,8 @@ date:   2017-10-10 10:18:00
 description: My first week as a PhD Student
 ---
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="hits" style="width:15%">
+
 Hello! As this is my first blog post I should probably introduce myself, and
 what I want to do with this blog.
 
