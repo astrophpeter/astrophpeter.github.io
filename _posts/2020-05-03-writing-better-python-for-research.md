@@ -5,6 +5,8 @@ description: Two ways I've improved my python
 draft: false
 ---
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Reads", style="width:15%">
+
 Writing readable high-quality code is key to being able to carry out efficient and effective research. Whilst in lockdown over the past six weeks I've been trying to improve my python skills and learn about better ways to write my research code. I want to share two things I've found particularly useful for improving the quality of my own code, in the hope that they will help you too.
 
 This post has had many sources of inspiration, my main one has been from watching videos of Raymond Hettinger, in particular [this one](https://www.youtube.com/watch?v=OSGv2VnC0go), which is packed full of amazing python tips. Also, I've learned many things from reading other blog posts like [this one](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6) and [this one](https://docs.python-guide.org/writing/style/).
