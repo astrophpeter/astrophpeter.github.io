@@ -11,7 +11,7 @@ syntax_highlighter_opts:
     default_lang: python
     css_class   : 'syntax'
 
-plugins: [jekyll-paginate, jekyll/scholar]
+plugins: [jekyll-paginate, jekyll-scholar]
 paginate: 20
 domain_name: 'petermcgill.com'
 google_analytics: 'UA-83279334-1'
