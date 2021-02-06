@@ -6,8 +6,6 @@ profile: true
 
 I work on a topic called gravitational microlensing. So far during my Ph.D. I have looked at the detection of the astrometric signatures of microlensing events with the Gaia Satellite. My supervisors are Wyn Evans and Vasily Belokurov. 
 
-{% bibliography %}
-
 ### Publications
 
 P. McGill,  A. Everall, D. Boubert, L.C. Smith; Predictions of Gaia’s prize microlensing events are flawed, 498, 2020, L6-L1, [https://doi.org/10.1093/mnrasl/slaa118](https://doi.org/10.1093/mnrasl/slaa118)
