@@ -12,6 +12,7 @@ syntax_highlighter_opts:
     css_class   : 'syntax'
 
 plugins: [jekyll-paginate]
+plugins: ['jekyll/scholar']
 paginate: 20
 domain_name: 'petermcgill.com'
 google_analytics: 'UA-83279334-1'
