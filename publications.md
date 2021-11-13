@@ -4,11 +4,12 @@ permalink: research/
 profile: true
 ---
 
-I work on a topic called gravitational microlensing. So far during my Ph.D. I have looked at the detection of the astrometric signatures of microlensing events with the Gaia Satellite. My supervisors are Wyn Evans and Vasily Belokurov. 
-
 ### Publications
 
-P. McGill,  A. Everall, D. Boubert, L.C. Smith; Predictions of Gaia’s prize microlensing events are flawed, 498, 2020, L6-L1, [https://doi.org/10.1093/mnrasl/slaa118](https://doi.org/10.1093/mnrasl/slaa118)
+A. Husseiniova, P. McGill, L.C Smith, N. Wyn Evans; A microlensing search of 700 million VVV light curves, 2021, MNRAS, 506, 2482,
+[https://doi.org/10.1093/mnras/stab1882](https://doi.org/10.1093/mnras/stab1882)
+
+P. McGill,  A. Everall, D. Boubert, L.C. Smith; Predictions of Gaia’s prize microlensing events are flawed, 2020, MNRAS, 498, 2020, L6-L1, [https://doi.org/10.1093/mnrasl/slaa118](https://doi.org/10.1093/mnrasl/slaa118)
 
 McGill P, et. al. Ongoing astrometric microlensing events from VVV and Gaia, 2019, MNRAS, 487, L7-L12.
 [https://doi.org/10.1093/mnrasl/slz073](https://doi.org/10.1093/mnrasl/slz073)
