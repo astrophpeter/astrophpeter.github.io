@@ -5,7 +5,8 @@ profile: true
 ---
 
 ### Publications
-[ADS](https://ui.adsabs.harvard.edu/public-libraries/kOvkmNXuQ7GgLpRXUKx1Vg)
+[ADS](https://ui.adsabs.harvard.edu/public-libraries/kOvkmNXuQ7GgLpRXUKx1Vg), [Google Scholar](https://scholar.google.com/citations?user=0CMkoAoAAAAJ&hl=en)
+
 (*) student supervised
 
 *Z. Kaczmarek, P. McGill, et al; Dark lenses through the dust: parallax microlensing events in the VVV, 2022, MNRAS, Accepted. [https://arxiv.org/abs/2205.07922](https://arxiv.org/abs/2205.07922)
