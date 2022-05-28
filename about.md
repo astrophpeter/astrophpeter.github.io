@@ -12,6 +12,6 @@ with [blast](https://github.com/astrophpeter/blast).
 
 I did my PhD at the [Institute of Astronomy](https://www.ast.cam.ac.uk/) at the University of Cambridge
 where I worked with [Wyn Evans](https://people.ast.cam.ac.uk/~nwe/) and 
-[Vasily Belukurov](https://people.ast.cam.ac.uk/~vasily/) on astrometric microlensing with Gaia. 
+[Vasily Belokurov](https://people.ast.cam.ac.uk/~vasily/) on astrometric microlensing with Gaia. 
 
 {% include footer.html %}
