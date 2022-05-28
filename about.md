@@ -14,4 +14,7 @@ I did my PhD at the [Institute of Astronomy](https://www.ast.cam.ac.uk/) at the 
 where I worked with [Wyn Evans](https://people.ast.cam.ac.uk/~nwe/) and 
 [Vasily Belokurov](https://people.ast.cam.ac.uk/~vasily/) on astrometric microlensing with [Gaia](https://sci.esa.int/web/gaia). 
 
+During my PhD I worked at the [Secondmind](https://www.secondmind.ai/) machine learning research lab where 
+I worked on Gaussian processes for time-series modeling.
+
 {% include footer.html %}
