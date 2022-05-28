@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 permalink: publications/
 profile: true
 ---
