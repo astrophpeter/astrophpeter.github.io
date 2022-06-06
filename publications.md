@@ -16,7 +16,7 @@ profile: true
 *A. Husseiniova, P. McGill, et al; **A microlensing search of 700 million VVV light curves**, 2021, MNRAS, 506, 2482,
 [https://doi.org/10.1093/mnras/stab1882](https://doi.org/10.1093/mnras/stab1882)
 
-P. McGill, et al; **Predictions of Gaia’s prize microlensing events are flawed**, 2020, MNRAS, 498, 2020, L6-L1, [https://doi.org/10.1093/mnrasl/slaa118](https://doi.org/10.1093/mnrasl/slaa118)
+P. McGill, et al; *Predictions of Gaia’s prize microlensing events are flawed*, 2020, MNRAS, 498, 2020, L6-L1, [https://doi.org/10.1093/mnrasl/slaa118](https://doi.org/10.1093/mnrasl/slaa118)
 
 P. McGill, et. al. **Ongoing astrometric microlensing events from VVV and Gaia**, 2019, MNRAS, 487, L7-L12.
 [https://doi.org/10.1093/mnrasl/slz073](https://doi.org/10.1093/mnrasl/slz073)
