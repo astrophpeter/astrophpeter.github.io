@@ -11,7 +11,7 @@ profile: true
 
 *P. McGill, et al; **First semi-empirical test of the white dwarf mass-radius relationship using a single white dwarf via astrometric microlensing**, 2022, MNRAS, submitted. []()
 
-*Z. Kaczmarek, P. McGill, et al; **Dark lenses through the dust: parallax microlensing events in the VVV**, 2022, MNRAS, Accepted. [https://arxiv.org/abs/2205.07922](https://arxiv.org/abs/2205.07922)
+*Z. Kaczmarek, P. McGill, et al; **Dark lenses through the dust: parallax microlensing events in the VVV**, 2022, MNRAS, Accepted. [https://doi.org/10.1093/mnras/stac1507](https://doi.org/10.1093/mnras/stac1507)
 
 *A. Husseiniova, P. McGill, et al; **A microlensing search of 700 million VVV light curves**, 2021, MNRAS, 506, 2482,
 [https://doi.org/10.1093/mnras/stab1882](https://doi.org/10.1093/mnras/stab1882)
