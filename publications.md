@@ -9,9 +9,13 @@ profile: true
 
 (*) student supervised
 
+L. Welbanks, P. McGill, et al; **On the Application of Bayesian Leave-One-Out Cross-Validation to Exoplanet Atmospheric Analysis**, 2022, ApJ, submitted.
+
+J. Luberto, E.C. Martin, P. McGill, et al; **A search for predicted astrometric microlensing events by nearby brown dwarfs**, 2022, ApJ, submitted.
+
 P. McGill, et al; **First semi-empirical test of the white dwarf mass-radius relationship using a single white dwarf via astrometric microlensing**, 2022, MNRAS, submitted. [https://arxiv.org/abs/2206.01814](https://arxiv.org/abs/2206.01814)
 
-*Z. Kaczmarek, P. McGill, et al; **Dark lenses through the dust: parallax microlensing events in the VVV**, 2022, MNRAS, Accepted. [https://doi.org/10.1093/mnras/stac1507](https://doi.org/10.1093/mnras/stac1507)
+*Z. Kaczmarek, P. McGill, et al; **Dark lenses through the dust: parallax microlensing events in the VVV**, 2022, MNRAS, 514, 4845-4860, [https://doi.org/10.1093/mnras/stac1507](https://doi.org/10.1093/mnras/stac1507)
 
 *A. Husseiniova, P. McGill, et al; **A microlensing search of 700 million VVV light curves**, 2021, MNRAS, 506, 2482,
 [https://doi.org/10.1093/mnras/stab1882](https://doi.org/10.1093/mnras/stab1882)
