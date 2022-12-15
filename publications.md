@@ -14,7 +14,7 @@ profile: true
 *J. Luberto, E.C. Martin, P. McGill, et al; **A search for predicted astrometric microlensing events by nearby brown dwarfs**, 2022, AJ, 164 253
 [https://doi.org/10.3847/1538-3881/ac9a41](10.3847/1538-3881/ac9a41)
 
-P. McGill, et al; **First semi-empirical test of the white dwarf mass-radius relationship using a single white dwarf via astrometric microlensing**, 2022, MNRAS, submitted. [https://arxiv.org/abs/2206.01814](https://arxiv.org/abs/2206.01814)
+P. McGill, et al; **First semi-empirical test of the white dwarf mass-radius relationship using a single white dwarf via astrometric microlensing**, 2022, MNRAS, accepted. [https://arxiv.org/abs/2206.01814](https://arxiv.org/abs/2206.01814)
 
 *Z. Kaczmarek, P. McGill, et al; **Dark lenses through the dust: parallax microlensing events in the VVV**, 2022, MNRAS, 514, 4845-4860, [https://doi.org/10.1093/mnras/stac1507](https://doi.org/10.1093/mnras/stac1507)
 
@@ -42,7 +42,7 @@ S.M. Ward, (including P. McGill) et al; **SN 2021hpr and its two siblings in the
 
 #### Exoplanet Atmospheres
 
-L. Welbanks, P. McGill, et al; **On the Application of Bayesian Leave-One-Out Cross-Validation to Exoplanet Atmospheric Analysis**, 2022, ApJ, submitted.
+L. Welbanks, P. McGill, et al; **On the Application of Bayesian Leave-One-Out Cross-Validation to Exoplanet Atmospheric Analysis**, 2022, AJ , accepted.
 
 #### Software
 
